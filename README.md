@@ -1,6 +1,6 @@
 # TBScrollView
 可循环自动滚动的ScrollViwe
-# 使用方法
+## 使用方法
 
 ```swift
 override func viewDidLoad() {
@@ -15,7 +15,7 @@ override func viewDidLoad() {
 }
 ```
 
-# 代理方法
+## 代理方法
 ```swift
 //设置内容数量
 func numberInScroll() -> Int {
